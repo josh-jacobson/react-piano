@@ -14,7 +14,7 @@ const soundfontHostname = 'https://d1pzp51pvbm36p.cloudfront.net';
 function Installation() {
   return (
     <div className="text-center">
-      <h2>Installation</h2>
+      <h2>Local Installation</h2>
       <p className="mt-4">Install with yarn or npm:</p>
       <p className="mt-3">
         <code className="p-2 text-dark bg-yellow">yarn add react-piano</code>
