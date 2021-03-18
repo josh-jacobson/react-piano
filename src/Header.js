@@ -5,7 +5,7 @@ function Header() {
     <div style={{ background: '#333' }}>
       <div className="container">
         <div className="text-sm-center text-white py-5">
-          <h1>WEBPT22 Piano Demo</h1>
+          <h1>Lambda Piano Demo</h1>
           <p>
             An interactive piano keyboard for React. Supports custom soundfonts,
             <br className="d-none d-sm-block" /> touch/click/keyboard events, and fully configurable
